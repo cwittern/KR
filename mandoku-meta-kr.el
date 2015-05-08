@@ -1,6 +1,6 @@
 ;;; mandoku-meta-kr.el --- Metadata for the KR repository to be used by Mandoku
 ;;
-;; Copyright (c) 2013-2014 Christian Wittern
+;; Copyright (c) 2013-2015 Christian Wittern
 ;;
 ;; Author: Christian Wittern <cwittern@gmail.com>
 ;; URL: http://www.mandoku.org
