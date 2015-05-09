@@ -3,7 +3,7 @@
 ;; Copyright (c) 2013-2015 Christian Wittern
 ;;
 ;; Author: Christian Wittern <cwittern@gmail.com>
-;; URL: http://www.mandoku.org
+;; URL: http://www.kanripo.org
 ;; Version: 0.05
 ;; Keywords: convenience
 ;; Package-Requires: ((org "8") (mandoku "0.05"))
