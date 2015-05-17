@@ -26,14 +26,14 @@
 :WITID: wit49
 :END:
 
-*** [[mandoku:KR6q0002][KR6q0002]]K45n1503 祖堂集
+*** [[mandoku:KR6q0002][KR6q0002]] K45n1503 祖堂集
 :PROPERTIES: 
 :GENRE: 史傳
 :CUSTOM_ID: KR6q0002
 :ZB_ID: ZB6q0002
 :SOURCE: TK 45, n1503
 :DYNASTY: 五代
-:EXTENT:  2o卷
+:EXTENT:  20卷
 :END:
 *** [[mandoku:KR6q0003][KR6q0003]] [[cbeta:T/T51n2076/T51n2076.org][T51n2076]] 景德傳燈錄
 :PROPERTIES: 
