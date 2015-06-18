@@ -1,0 +1,12 @@
+# -*- mode: org; -*-
+* KR5 道部
+** [[file:KR5a.txt][KR5a]]
+** [[file:KR5b.txt][KR5b]]
+** [[file:KR5c.txt][KR5c]]
+** [[file:KR5d.txt][KR5d]]
+** [[file:KR5e.txt][KR5e]]
+** [[file:KR5f.txt][KR5f]]
+** [[file:KR5g.txt][KR5g]]
+** [[file:KR5h.txt][KR5h]]
+** [[file:KR5i.txt][KR5i]]
+** [[file:KR5j.txt][KR5j]]
