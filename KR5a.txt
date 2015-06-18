@@ -1,6 +1,5 @@
 # -*- mode: org; -*-
 ** KR5a 洞真部
-# ** CMTS0101	本文類 Scripture
 *** [[mandoku:KR5a0001][KR5a0001]] 靈寶無量度人上品妙經
 :PROPERTIES:
 :CUSTOM_ID: KR5a0001
@@ -85,7 +84,6 @@
 元始說先天道德經註解
 
 
-
 *** [[mandoku:KR5a0004][KR5a0004]] 無上內祕真藏經
 :PROPERTIES:
 :CUSTOM_ID: KR5a0004
@@ -113,7 +111,6 @@
 :DZ: DZ0004 / JY004
 :END:
 元始天尊說無上內祕真藏經
-
 
 
 *** [[mandoku:KR5a0005][KR5a0005]] 太上無極總真文昌大洞仙經
@@ -522,7 +519,6 @@
 元始天尊說生天得道經 
 
 
-
 *** [[mandoku:KR5a0025][KR5a0025]] 元始天尊說得道了身經
 :PROPERTIES:
 :CUSTOM_ID: KR5a0025
@@ -549,7 +545,6 @@
 :DZ: DZ0025 / JY012
 :END:
 元始天尊說得道了身經 
-
 
 
 *** [[mandoku:KR5a0026][KR5a0026]] 太上九天延祥滌厄四聖妙經
@@ -630,7 +625,6 @@
 :DZ: DZ0029 / JY015
 :END:
 元始消劫梓潼本願真經 
-
 
 
 *** [[mandoku:KR5a0030][KR5a0030]] 元始八威龍文經
@@ -1467,7 +1461,6 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0102	神符類 Shenfu Sacred Symbols
 *** [[mandoku:KR5a0079][KR5a0079]] 三洞神符記
 :PROPERTIES:
 :CUSTOM_ID: KR5a0079
@@ -1602,7 +1595,6 @@
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0103	玉訣類 Yujue Exegeses
 *** [[mandoku:KR5a0087][KR5a0087]] 元始無量度人上品妙經四註
 :PROPERTIES:
 :CUSTOM_ID: KR5a0087
@@ -3112,7 +3104,6 @@ and [[mandoku:dz:DZ0141:020964b10][紫陽真人悟真篇註疏 DZ0141:020964b10]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0104	靈圖類 Lingtu Diagrams
 *** [[mandoku:KR5a0148][KR5a0148]] 靈寶無量度人上品妙經符圖
 :PROPERTIES:
 :CUSTOM_ID: KR5a0148
@@ -3454,7 +3445,6 @@ and [[mandoku:dz:DZ0141:020964b10][紫陽真人悟真篇註疏 DZ0141:020964b10]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0105	譜錄類 Pulu Annals
 ***** DZJY  JY292 玄元十子圖  Xuanyuan shizi tu				:can:
 :PROPERTIES:
 :EXTENT:  14 fols.
@@ -3825,7 +3815,6 @@ and [[mandoku:dz:DZ0141:020964b10][紫陽真人悟真篇註疏 DZ0141:020964b10]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0106	戒律類 Jielü Precepts	
 *** [[mandoku:KR5a0178][KR5a0178]] 太上洞真智慧上品大誡
 :PROPERTIES:
 :CUSTOM_ID: KR5a0178
@@ -4129,7 +4118,6 @@ and [[mandoku:dz:DZ0141:020964b10][紫陽真人悟真篇註疏 DZ0141:020964b10]
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0107	威儀類 Weiyi Solemn Rites
 *** [[mandoku:KR5a0190][KR5a0190]] 太上靈寶朝天謝罪大懺
 :PROPERTIES:
 :CUSTOM_ID: KR5a0190
@@ -4662,7 +4650,6 @@ looks like there is some text before our text, which starts at SEC 1
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0108	方法類 Fangfa Techniques	
 *** [[mandoku:KR5a0220][KR5a0220]] 靈寶無量度人上經大法
 :PROPERTIES:
 :CUSTOM_ID: KR5a0220
@@ -6067,7 +6054,6 @@ looks like there is some text before our text, which starts at SEC 1
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0109	眾術類 Zhongshu Miscelleneous Techniques	
 *** [[mandoku:KR5a0282][KR5a0282]] 破迷正道歌
 :PROPERTIES:
 :CUSTOM_ID: KR5a0282
@@ -6479,7 +6465,6 @@ looks like there is some text before our text, which starts at SEC 1
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0110	記傳類 Jizhuan Hagiography 
 *** [[mandoku:KR5a0302][KR5a0302]] 廣黃帝本行記
 :PROPERTIES:
 :CUSTOM_ID: KR5a0302
@@ -6900,7 +6885,6 @@ looks like there is some text before our text, which starts at SEC 1
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0111	讚頌類 Zansong Hymns	
 *** [[mandoku:KR5a0321][KR5a0321]] 諸師真誥
 :PROPERTIES:
 :CUSTOM_ID: KR5a0321
@@ -7037,7 +7021,6 @@ looks like there is some text before our text, which starts at SEC 1
 **** textual witnesses
 ***** SJB
 ***** ZHDZ
-# ** CMTS0112	表奏類 Biaozou Memorials	
 *** [[mandoku:KR5a0327][KR5a0327]] 宋真宗御製玉京集
 :PROPERTIES:
 :CUSTOM_ID: KR5a0327
